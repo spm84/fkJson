@@ -17,8 +17,8 @@
     "name": "fkJson"
   },
   "members": [
-    { "code": "01", "name": "Sangpm" },
-    { "code": "02", "title": "Lintd" },
-    { "code": "03", "title": "Binhnd" }
+    { "id": 1, "code": "01", "name": "Sangpm" },
+    { "id": 2, "code": "02", "title": "Lintd" },
+    { "id": 3, "code": "03", "title": "Binhnd" }
   ]
 }
